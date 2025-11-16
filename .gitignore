@@ -1,2 +1,17 @@
-.idea
-venv
+# PyCharm
+.idea/
+
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution and packaging files
+build/
+dist/
+*.egg-info/
+*.egg
