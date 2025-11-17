@@ -1,0 +1,27 @@
+# PyCharm
+.idea/
+
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Other files and folders
+README.md
+
+# Distribution and packaging files
+build/
+dist/
+*.egg-info/
+*.egg
